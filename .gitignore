@@ -1,0 +1,7 @@
+# Ignorar absolutamente todo el codigo fuente y carpetas
+*
+
+# Solo permitir archivos de documentacion publica
+!.gitignore
+!README.md
+!logo.png
